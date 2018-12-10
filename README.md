@@ -1,5 +1,5 @@
-# xml2018
-projekat iz xml za 2018/19
+# xml2018-front
+Angular 7 klijent za xml projekat 2018/19
 
 Članovi tima:
 - Goran Janković SW92/2016
